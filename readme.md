@@ -24,6 +24,8 @@ To get started with the IP Lectures Web App, follow these steps:
 ## Contributors
 
 - **Dhiraj Chaudhari** - [LinkedIn](https://www.linkedin.com/in/dhiraj-chaudhari-06ba10259)
+- 
+- **Abhijeet Rogye** - [LinkedIn]((https://www.linkedin.com/in/abhijeetrogye/))
 
 ## License
 
